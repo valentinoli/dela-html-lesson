@@ -1,0 +1,23 @@
+{
+  "structure": "individual",
+  "payload": {
+    "REGxrT2piXhhm7aj4": {
+      "data": {"code": "<!DOCTYPE html>\n<!-- INSERT YOUR MARKUP BELOW -->\n"}
+    },
+    "cQbQcBnHgWsB72JaP": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<!-- INSERT YOUR MARKUP BELOW -->\n<head>\n</head>\n<body>\n    Hello\n</body>"
+      }
+    },
+    "sY2PHLSsXkPtG4hWy": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<!-- INSERT YOUR MARKUP BELOW -->\n<head>\n    <title></title>\n</head>\n<body>\n    Hello\n</body>"
+      }
+    },
+    "vrBM9oi4u9kozeFtb": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<!-- INSERT YOUR MARKUP BELOW -->\n<body>\n    Hello\n</body>"
+      }
+    }
+  }
+}

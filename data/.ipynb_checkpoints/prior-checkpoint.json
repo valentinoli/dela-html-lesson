@@ -1,0 +1,89 @@
+{
+  "structure": "individual",
+  "payload": {
+    "REGxrT2piXhhm7aj4": {
+      "data": {
+        "questions": [
+          "<p>Do you have any idea what HTML is about?</p>",
+          "<p>Do you have any experience with HTML?</p>",
+          "<p>Have you previously taken a course or a tutorial about HTML or web development in general?</p>",
+          "<p>Have you used any front-end web-development frameworks before (like Vue.js, React, Angular)?</p>"
+        ],
+        "answers": ["No", "Yes", "No", "Yes"],
+        "answersIndex": [1, 0, 1, 0],
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Valentin Oliver Loftsson answered the questions as follows: Do you have any idea what HTML is about? No.  Do you have any experience with HTML? Yes.  Have you previously taken a course or a tutorial about HTML or web development in general? No.  Have you used any front-end web-development frameworks before (like Vue.js, React, Angular)? Yes.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"0": true, "text": ""}
+        }
+      }
+    },
+    "cQbQcBnHgWsB72JaP": {
+      "data": {
+        "questions": [
+          "<p>Do you have any idea what HTML is about?</p>",
+          "<p>Do you have any experience with HTML?</p>",
+          "<p>Have you previously taken a course or a tutorial about HTML or web development in general?</p>",
+          "<p>Have you used any front-end web-development frameworks before (like Vue.js, React, Angular)?</p>"
+        ],
+        "answers": ["Yes", "No", "Yes", "No"],
+        "answersIndex": [0, 1, 0, 1],
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Peter answered the questions as follows: Do you have any idea what HTML is about? Yes.  Do you have any experience with HTML? No.  Have you previously taken a course or a tutorial about HTML or web development in general? Yes.  Have you used any front-end web-development frameworks before (like Vue.js, React, Angular)? No.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"0": true, "text": ""},
+          "3": {"1": true, "text": ""}
+        }
+      }
+    },
+    "sY2PHLSsXkPtG4hWy": {
+      "data": {
+        "questions": [
+          "<p>Do you have any idea what HTML is about?</p>",
+          "<p>Do you have any experience with HTML?</p>",
+          "<p>Have you previously taken a course or a tutorial about HTML or web development in general?</p>",
+          "<p>Have you used any front-end web-development frameworks before (like Vue.js, React, Angular)?</p>"
+        ],
+        "answers": ["Yes", "No", "Yes", "No"],
+        "answersIndex": [0, 1, 0, 1],
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Anna answered the questions as follows: Do you have any idea what HTML is about? Yes.  Do you have any experience with HTML? No.  Have you previously taken a course or a tutorial about HTML or web development in general? Yes.  Have you used any front-end web-development frameworks before (like Vue.js, React, Angular)? No.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"0": true, "text": ""},
+          "3": {"1": true, "text": ""}
+        }
+      }
+    },
+    "vrBM9oi4u9kozeFtb": {
+      "data": {
+        "questions": [
+          "<p>Do you have any idea what HTML is about?</p>",
+          "<p>Do you have any experience with HTML?</p>",
+          "<p>Have you previously taken a course or a tutorial about HTML or web development in general?</p>",
+          "<p>Have you used any front-end web-development frameworks before (like Vue.js, React, Angular)?</p>"
+        ],
+        "answers": ["Yes", "No", "Yes", "No"],
+        "answersIndex": [0, 1, 0, 1],
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Chen Li answered the questions as follows: Do you have any idea what HTML is about? Yes.  Do you have any experience with HTML? No.  Have you previously taken a course or a tutorial about HTML or web development in general? Yes.  Have you used any front-end web-development frameworks before (like Vue.js, React, Angular)? No.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"0": true, "text": ""},
+          "3": {"1": true, "text": ""}
+        }
+      }
+    }
+  }
+}
