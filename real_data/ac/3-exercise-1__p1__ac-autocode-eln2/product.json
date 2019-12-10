@@ -44,9 +44,6 @@
         "code": "<!DOCTYPE html>\n<!-- INSERT YOUR MARKUP BELOW -->\n<html>\n    <head>\n        This is a title\n    </head>\n    <body>\n        Hello, world!\n    </body>\n</html>"
       }
     },
-    "PdmCgSRv3kmfWwA3a": {
-      "data": {"code": "<!DOCTYPE html>\n<!-- INSERT YOUR MARKUP BELOW -->\n"}
-    },
     "PqdvC3XWpMyWFqire": {
       "data": {
         "code": "<!DOCTYPE html>\n<!-- INSERT YOUR MARKUP BELOW -->\n<html>\n    Hello World!\n</html>"
