@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "<p>Do you have any idea what HTML is about?</p>",
+      "answers": [{"choice": "Yes"}, {"choice": "No"}]
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "answers": [{"choice": "Yes"}, {"choice": "No"}],
+      "question": "<p>Do you have any experience with writing HTML?</p>"
+    },
+    {
+      "question": "<p>Have you previously taken a course or a tutorial about HTML or web development in general?</p>",
+      "answers": [{"choice": "Yes"}, {"choice": "No"}]
+    },
+    {
+      "question": "<p>Have you used any front-end web-development frameworks before (like Vue.js, React, Angular)?</p>",
+      "answers": [{"choice": "Yes"}, {"choice": "No"}]
+    }
+  ],
+  "title": "Pretest",
+  "advancedConfig": false,
+  "guidelines": "<p><br></p>"
+}
