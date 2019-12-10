@@ -1,0 +1,14 @@
+{
+  "_id": "ck3ydk7vr01ay01rsa84oc98k",
+  "graphId": "ck3ydk7vp01am01rs9htoes7k",
+  "length": 7,
+  "plane": 2,
+  "startTime": 42,
+  "title": "Coding",
+  "activityType": "ac-autocode",
+  "configVersion": 1,
+  "groupingKey": "Split class into groups of 2-3 for the HTML analysis",
+  "state": "computed",
+  "actualStartingTime": "2019-12-10T08:09:38.064Z",
+  "actualClosingTime": "2019-12-10T08:13:42.100Z"
+}

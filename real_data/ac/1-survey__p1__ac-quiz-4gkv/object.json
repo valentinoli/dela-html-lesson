@@ -1,0 +1,58 @@
+{
+  "_id": "ck3ydk7vr01as01rs3qxk4gkv",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {},
+  "globalStructure": {
+    "studentIds": [
+      "o5DALaM8AFwY6H4tE",
+      "iCcqC5LHLXf5Ja3jK",
+      "Gv7QyY2nyFbAQadHu",
+      "xGGhgoi8Lr67HZvga",
+      "C23vEwAz5F76NjERx",
+      "YvCdYm3zReNZzrtNs",
+      "NEJpZWwLZ4dzzvYh7",
+      "QpTfa3muPPMBFR9Pp",
+      "PqdvC3XWpMyWFqire",
+      "53TwXKQe62kT2tnRp",
+      "hjfHvYz88HrEAiHw7",
+      "bFNGRyeEysDF8YCYG",
+      "znza2WvWyiBTfdzab",
+      "zziBcRA4iFysNPizw",
+      "Aw4gxBApCsdMueCwk",
+      "2bcTjnfNuKp5hJcyK",
+      "PrjgtRBCGbqJoZ3HN",
+      "28AYQLYnkgBi5uKXN",
+      "Sp3JZtnPt2G6W7a32",
+      "k2oxfxXXwQszGYgbX",
+      "BMjGCT4wEQuYNyTiS",
+      "Ystaypp7AmJ4wYvsM"
+    ],
+    "students": {
+      "o5DALaM8AFwY6H4tE": "David Joaquim Da Rocha Rodrigues",
+      "iCcqC5LHLXf5Ja3jK": "Anton Soldatenkov",
+      "Gv7QyY2nyFbAQadHu": "Alexis Philippe Marie Mermet",
+      "xGGhgoi8Lr67HZvga": "Jimin Wang",
+      "C23vEwAz5F76NjERx": "Lua Streit",
+      "YvCdYm3zReNZzrtNs": "Timur Nikita Lavrov",
+      "NEJpZWwLZ4dzzvYh7": "Victor Louis René Jean Taburet",
+      "QpTfa3muPPMBFR9Pp": "Maja Stamenkovic",
+      "PqdvC3XWpMyWFqire": "Robin Leurent",
+      "53TwXKQe62kT2tnRp": "Thanh Loïc Nguyen",
+      "hjfHvYz88HrEAiHw7": "Marie Mouna Reignier Tayar",
+      "bFNGRyeEysDF8YCYG": "Elias Hariz",
+      "znza2WvWyiBTfdzab": "Ludo Hoffstetter",
+      "zziBcRA4iFysNPizw": "Jan Horesovsky",
+      "Aw4gxBApCsdMueCwk": "Arnaud Jean Pierre-François Brigitte Duvieusart",
+      "2bcTjnfNuKp5hJcyK": "Xiao Zhou",
+      "PrjgtRBCGbqJoZ3HN": "Jade Maï L Cock",
+      "28AYQLYnkgBi5uKXN": "Andrea Sebastien Scalisi",
+      "Sp3JZtnPt2G6W7a32": "Johan Per Alexandre Lanzrein",
+      "k2oxfxXXwQszGYgbX": "Maxime Quentin Pisa",
+      "BMjGCT4wEQuYNyTiS": "Isitan Gorkey",
+      "Ystaypp7AmJ4wYvsM": "Jeremy Olivier Mion"
+    }
+  }
+}

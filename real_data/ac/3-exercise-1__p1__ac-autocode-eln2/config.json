@@ -1,0 +1,8 @@
+{
+  "theme": "kuroir",
+  "title": "Exercise 1: Basic HTML document",
+  "language": "HTML",
+  "template": "<!DOCTYPE html>\n<!-- INSERT YOUR MARKUP BELOW -->\n",
+  "guidelines": "Construct the “Hello, world!” minimal structure of an HTML document",
+  "specifications": "You may leave the <!-- comment section -->, it will not be evaluated"
+}

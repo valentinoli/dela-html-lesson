@@ -1,0 +1,346 @@
+{
+  "graph": {
+    "_id": "ck3ydk7vp01am01rs9htoes7k",
+    "name": "HTML_Project",
+    "ownerId": "pLxnvNXHvYZMkX7pg",
+    "createdAt": "2019-12-09T11:50:57.253Z",
+    "uiStatus": "active",
+    "graphVersion": 2,
+    "broken": false,
+    "duration": 60,
+    "published": true,
+    "sessionGraph": true
+  },
+  "activities": [
+    {
+      "_id": "ck3ydk7vr01an01rs2zoueln2",
+      "length": 5,
+      "plane": 1,
+      "startTime": 9,
+      "title": "Exercise 1",
+      "activityType": "ac-autocode",
+      "configVersion": 1,
+      "data": {
+        "theme": "kuroir",
+        "title": "Exercise 1: Basic HTML document",
+        "language": "HTML",
+        "template": "<!DOCTYPE html>\n<!-- INSERT YOUR MARKUP BELOW -->\n",
+        "guidelines": "Construct the “Hello, world!” minimal structure of an HTML document",
+        "specifications": "You may leave the <!-- comment section -->, it will not be evaluated"
+      },
+      "actualStartingTime": "2019-12-10T07:54:19.257Z",
+      "actualClosingTime": "2019-12-10T07:56:21.558Z"
+    },
+    {
+      "_id": "ck3ydk7vr01ao01rsf2s56hm2",
+      "length": 5,
+      "plane": 3,
+      "startTime": 4,
+      "title": "L1 (intro)",
+      "participationMode": "projector",
+      "activityType": "ac-video",
+      "configVersion": 1,
+      "data": {
+        "playing": false,
+        "loop": false,
+        "url": "https://youtu.be/W6-cYLCfrHg"
+      },
+      "actualStartingTime": "2019-12-10T07:49:06.135Z",
+      "actualClosingTime": "2019-12-10T07:54:19.142Z"
+    },
+    {
+      "_id": "ck3ydk7vr01ap01rs8qk33lgn",
+      "length": 5,
+      "plane": 1,
+      "startTime": 21,
+      "title": "Exercise 2",
+      "activityType": "ac-autocode",
+      "configVersion": 1,
+      "data": {
+        "theme": "kuroir",
+        "template": "<!DOCTYPE html>\n<html lang=\"en\">\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t\t<title>Example</title>\n\t</head>\n\t<body>\n\t\t<section>\n\t\t\t<!-- INSERT YOUR MARKUP BELOW -->\n\t\t\t\n\n\t\t\t<!--\n\t\t\t\t*** Page Content ***\n\t\t\t\t\n\t\t\t\tA short history of the Web\n\t\t\t\t\n\t\t\t\tWhere the Web was born\n\n\t\t\t\tTim Berners-Lee, a British scientist, invented the World Wide Web (WWW) in 1989, while working at CERN.\t\t\t\n\t\t\t\tGrowing up, Sir Tim was interested in trains and had a model railway in his bedroom. He recalls:\n\n\t\t\t\t“I made some electronic gadgets to control the trains. Then I ended up getting more interested in electronics than trains. Later on, when I was in college I made a computer out of an old television set.”\n\n\t\t\t\tThe basic idea of the WWW was to merge the evolving technologies of computers, data networks and hypertext into a powerful and easy to use global information system.\n\n\n\t\t\t\tHow the Web began\n\n\t\t\t\tTim Berners-Lee wrote the first proposal for the World Wide Web in March 1989 and his second proposal in May 1990. This was formalised as a management proposal in November 1990. This outlined the principal concepts and it defined important terms behind the Web. The document described a \"hypertext project\" called \"WorldWideWeb\" in which a \"web\" of \"hypertext documents\" could be viewed by “browsers”.\n\t\t\t\t\n\t\t\t\tBy the end of 1990, Tim Berners-Lee had the first Web server and browser up and running at CERN, demonstrating his ideas. He developed the code for his Web server on a NeXT computer. To prevent it being accidentally switched off, the computer had a hand-written label in red ink: \"This machine is a server. DO NOT POWER IT DOWN!!\"\n\t\t\t-->\n\t\t</section>\n\t</body>\n</html>",
+        "language": "HTML",
+        "title": "Exercise 2",
+        "guidelines": "Add some text content to your page using previously introduced elements",
+        "specifications": "You may leave the <!-- comment sections -->, they will not be evaluated"
+      },
+      "actualStartingTime": "2019-12-10T07:58:51.808Z",
+      "actualClosingTime": "2019-12-10T08:01:49.141Z"
+    },
+    {
+      "_id": "ck3ydk7vr01aq01rs0e745cby",
+      "length": 5,
+      "plane": 1,
+      "startTime": 33,
+      "title": "Exercise 3",
+      "activityType": "ac-autocode",
+      "configVersion": 1,
+      "data": {
+        "theme": "kuroir",
+        "template": "<!DOCTYPE html>\n<html lang=\"en\">\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t\t<title>Example</title>\n\t</head>\n\t<body>\n\t\t<section>\n\t\t\t<h1>A short history of the Web</h1>\n\t\t\t<h2>Where the Web was born</h2>\n\t\t\t\n\t\t\t<p>Tim Berners-Lee, a British scientist, invented the World Wide Web (WWW) in 1989, while working at CERN.</p>\t\t\t\n\t\t\t<p>Growing up, Sir Tim was interested in trains and had a model railway in his bedroom. He recalls:</p>\n\t\t\t\n\t\t\t<blockquote>“I made some electronic gadgets to control the trains. Then I ended up getting more interested in electronics than trains. Later on, when I was in college I made a computer out of an old television set.”</blockquote>\n\t\t\t\n\t\t\t<p>The basic idea of the WWW was to merge the evolving technologies of computers, data networks and hypertext into a powerful and easy to use global information system.</p>\n\t\t\t\n\t\t\t\n\t\t\t<h2>How the Web began</h2>\n\t\t\t\n\t\t\t<p>Tim Berners-Lee wrote the first proposal for the World Wide Web in March 1989 and his second proposal in May 1990. This was formalised as a management proposal in November 1990. This outlined the principal concepts and it defined important terms behind the Web. The document described a \"hypertext project\" called \"WorldWideWeb\" in which a \"web\" of \"hypertext documents\" could be viewed by “browsers”.</p>\n\t\t\t\n\t\t\t<p>By the end of 1990, Tim Berners-Lee had the first Web server and browser up and running at CERN, demonstrating his ideas. He developed the code for his Web server on a NeXT computer. To prevent it being accidentally switched off, the computer had a hand-written label in red ink: \"This machine is a server. DO NOT POWER IT DOWN!!\"</p>\n\n\t\t\t<!-- INSERT YOUR MARKUP BELOW -->\n\n\t\t\t\n\t\t\t<!--\n\t\t\t\t*** Hyperlinks ***\n\t\t\t\t(1) https://en.wikipedia.org/wiki/HTML\n\t\t\t\t(2) https://en.wikipedia.org/wiki/Tim_Berners-Lee\n\t\t\t\t\n\t\t\t\t*** Image sources ***\n\t\t\t\t(1) Tim's original proposal: https://tinyurl.com/yxdkbbbj\n\t\t\t\t(2) Tim Berners-Lee:\t\t https://tinyurl.com/yyjstlro\n\t\t\t\t\n\t\t\t\t*** Text content ***\n\t\t\t\tThe three fundamental technologies that remain the foundation of today’s web:\n\t\t\t\n\t\t\t\tHTML\n\t\t\t\tURI\n\t\t\t\tHTTP\n\t\t\t\n\t\t\t\tRead more about Tim Berners-Lee\n\t\t\t-->\t\t\t\n\t\t</section>\n\t</body>\n</html>",
+        "language": "HTML",
+        "title": "Exercise 3",
+        "guidelines": "Add more advanced content using previously introduced elements and attributes",
+        "specifications": "You may leave the <!-- comment sections -->, they will not be evaluated"
+      },
+      "actualStartingTime": "2019-12-10T08:04:29.717Z",
+      "actualClosingTime": "2019-12-10T08:08:10.412Z"
+    },
+    {
+      "_id": "ck3ydk7vr01ar01rsfvj46c2f",
+      "length": 7,
+      "plane": 1,
+      "startTime": 14,
+      "title": "L2 (video)",
+      "activityType": "ac-video",
+      "configVersion": 1,
+      "data": {"playing": false, "url": "https://youtu.be/CKa8VYtwj9Q"},
+      "actualStartingTime": "2019-12-10T07:56:22.764Z",
+      "actualClosingTime": "2019-12-10T07:58:51.596Z"
+    },
+    {
+      "_id": "ck3ydk7vr01as01rs3qxk4gkv",
+      "length": 4,
+      "plane": 1,
+      "startTime": 0,
+      "title": "Survey",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "questions": [
+          {
+            "question": "<p>Do you have any idea what HTML is about?</p>",
+            "answers": [{"choice": "Yes"}, {"choice": "No"}]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "answers": [{"choice": "Yes"}, {"choice": "No"}],
+            "question": "<p>Do you have any experience with writing HTML?</p>"
+          },
+          {
+            "question": "<p>Have you previously taken a course or a tutorial about HTML or web development in general?</p>",
+            "answers": [{"choice": "Yes"}, {"choice": "No"}]
+          },
+          {
+            "question": "<p>Have you used any front-end web-development frameworks before (like Vue.js, React, Angular)?</p>",
+            "answers": [{"choice": "Yes"}, {"choice": "No"}]
+          }
+        ],
+        "title": "Pretest",
+        "advancedConfig": false,
+        "guidelines": "<p><br></p>"
+      },
+      "actualStartingTime": "2019-12-10T07:47:29.884Z",
+      "actualClosingTime": "2019-12-10T07:49:05.608Z"
+    },
+    {
+      "_id": "ck3ydk7vr01at01rs3b0th3nk",
+      "length": 7,
+      "plane": 1,
+      "startTime": 14,
+      "title": "L2 (discovery)",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {
+        "title": "Elements: part 1",
+        "text": "<p>Below you can find some HTML code and the corresponding result.</p>\n<p>Try to find how the code is structured.&nbsp;</p>\n<p>Look how each part of the code is rendered and to which element it corresponds.</p>\n<p>Finally look at the attributes and figure out what are they used for.</p>\n<p><img src=\"https://i.imgur.com/IC5tn1q.png\" width=\"1458\" height=\"654\"/><img src=\"https://i.imgur.com/mSGKhgf.png\" width=\"1920\" height=\"586\"/></p>"
+      },
+      "actualStartingTime": "2019-12-10T07:56:23.700Z",
+      "actualClosingTime": "2019-12-10T07:58:51.600Z"
+    },
+    {
+      "_id": "ck3ydk7vr01au01rsa3a473vy",
+      "length": 7,
+      "plane": 1,
+      "startTime": 26,
+      "title": "L3 (video)",
+      "activityType": "ac-video",
+      "configVersion": 1,
+      "data": {"playing": false, "url": "https://youtu.be/u0y0A0zfo0E"},
+      "actualStartingTime": "2019-12-10T08:01:49.289Z",
+      "actualClosingTime": "2019-12-10T08:04:28.081Z"
+    },
+    {
+      "_id": "ck3ydk7vr01av01rsauccdo6i",
+      "length": 4,
+      "plane": 3,
+      "startTime": 38,
+      "title": "Solution",
+      "activityType": "ac-iframe",
+      "configVersion": 1,
+      "data": {"url": "https://notendur.hi.is/~vol1/html-exercise-solution"},
+      "actualStartingTime": "2019-12-10T08:08:10.528Z",
+      "actualClosingTime": "2019-12-10T08:09:36.665Z"
+    },
+    {
+      "_id": "ck3ydk7vr01aw01rs3g9rdzbu",
+      "length": 7,
+      "plane": 2,
+      "startTime": 42,
+      "title": "Analysis (group)",
+      "activityType": "ac-chat",
+      "configVersion": 1,
+      "data": {"title": "HTML Analysis"},
+      "groupingKey": "Split class into groups of 2-3 for the HTML analysis",
+      "actualStartingTime": "2019-12-10T08:09:36.990Z",
+      "actualClosingTime": "2019-12-10T08:13:42.093Z"
+    },
+    {
+      "_id": "ck3ydk7vr01ax01rs7wrm7kz4",
+      "length": 8,
+      "plane": 3,
+      "startTime": 49,
+      "title": "Analysis feedback",
+      "activityType": "ac-autocode",
+      "configVersion": 1,
+      "data": {
+        "theme": "kuroir",
+        "tests": [{}],
+        "language": "HTML",
+        "template": "<!DOCTYPE html>\n<html lang=\"en\">\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t\t<title>EPFL - Architecture</title>\n\t</head>\n\t<body>\n\t\t<section>\n\t\t\t<h1>Architecture</h1>\n\t\t\t<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n\t\t\t<h2>Program presentation</h2>\n\t\t\t<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.</p>\n\n\t\t\t<h2>Study plan</h2>\n\t\t\t<ul>\n\t\t\t\t<li><a href=\"https://epfl.ch/b1\">Bachelor first year</a></li>\n\t\t\t\t<li><a href=\"https://epfl.ch/b+\">Bachelor 2nd and 3rd year</a></li>\n\t\t\t\t<li><a href=\"https://epfl.ch/master\">Master</a></li>\n\t\t\t</ul>\n\n\t\t\t<img alt=\"Architecture: background image\" src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jpg\">\n\t\t</section>\n\t</body>\n</html>\n\n<!-- \n1. Closing tag </body> missing\n2. Order of headings\n3. Closing tag </p> missing\n4. <a> is required to have href attribute\n5. <ul> missing\n6. <img> src broken\n7. alt attribute missing\n8. Indentation\n-->",
+        "title": "HTML analysis: discussion and feedback"
+      },
+      "actualStartingTime": "2019-12-10T08:13:42.231Z",
+      "actualClosingTime": "2019-12-10T08:15:02.931Z"
+    },
+    {
+      "_id": "ck3ydk7vr01ay01rsa84oc98k",
+      "length": 7,
+      "plane": 2,
+      "startTime": 42,
+      "title": "Coding",
+      "activityType": "ac-autocode",
+      "configVersion": 1,
+      "data": {
+        "theme": "kuroir",
+        "tests": [{}],
+        "language": "HTML",
+        "title": "HTML analysis and error correction",
+        "guidelines": "You have been divided into groups of 2-3 individuals. Discuss and analyze the following HTML markup and fix all errors you find",
+        "template": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h2>Architecture</h2>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h3>Program presentation</h3>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.\n\n<h3>Study plan</h3>\n<li><a>Bachelor first year</a></li>\n<li><a>Bachelor 2nd and 3rd year</a></li>\n<li><a>Master</a></li>\n\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jp\">\n</section>\n</html>"
+      },
+      "groupingKey": "Split class into groups of 2-3 for the HTML analysis",
+      "actualStartingTime": "2019-12-10T08:09:38.064Z",
+      "actualClosingTime": "2019-12-10T08:13:42.100Z"
+    },
+    {
+      "_id": "ck3ydk7vr01az01rs8tkwexlj",
+      "length": 7,
+      "plane": 1,
+      "startTime": 26,
+      "title": "L3 (discovery)",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {
+        "title": "Elements: part 2",
+        "text": "<p>Below you can find some HTML code and the corresponding result.</p>\n<p>Try to find how the code is structured.&nbsp;</p>\n<p>Look how each part of the code is rendered and to which element it corresponds.</p>\n<p>Finally look at the attributes and figure out what are they used for.</p>\n<p><img src=\"https://i.imgur.com/Y6Gmzov.jpg\" width=\"1720\" height=\"712\"/></p>\n<p><img src=\"https://i.imgur.com/8jrgvym.jpg\" width=\"860\" height=\"832\"/></p>\n<p><br></p>"
+      },
+      "actualStartingTime": "2019-12-10T08:01:50.980Z",
+      "actualClosingTime": "2019-12-10T08:04:28.087Z"
+    }
+  ],
+  "operators": [
+    {
+      "_id": "ck3ydk7vr01b001rs9qp4dloz",
+      "time": 36.1875,
+      "type": "social",
+      "y": 136,
+      "operatorType": "op-create-groups",
+      "title": "Create groups",
+      "data": {
+        "groupsize": 2,
+        "strategy": "minimum",
+        "grouping": "Split class into groups of 2-3 for the HTML analysis"
+      },
+      "configVersion": 1
+    },
+    {
+      "_id": "ck3ydk7vr01b101rsbsii2mly",
+      "time": 23.0625,
+      "type": "social",
+      "y": 39,
+      "operatorType": "op-create-groups",
+      "title": "Create groups",
+      "data": {
+        "grouping": "Split class into two groups",
+        "groupnumber": true,
+        "globalnum": 2
+      },
+      "configVersion": 1
+    },
+    {
+      "_id": "ck3ydk7vr01b201rsg338h7dd",
+      "time": 18.984375,
+      "type": "control",
+      "y": 81,
+      "operatorType": "op-control-group",
+      "title": "Social->Control",
+      "data": {
+        "applytoall": true,
+        "includeexclude": "include",
+        "social": "Split class into two groups",
+        "who": "1"
+      },
+      "configVersion": 1
+    },
+    {
+      "_id": "ck3ydk7vr01b301rsge4418ap",
+      "time": 29.109375,
+      "type": "control",
+      "y": 77,
+      "operatorType": "op-control-group",
+      "title": "Social->Control",
+      "data": {
+        "applytoall": true,
+        "includeexclude": "include",
+        "social": "Split class into two groups",
+        "who": "2"
+      },
+      "configVersion": 1
+    }
+  ],
+  "connections": [
+    {
+      "_id": "ck3ydk7vr01b401rs1z4g316n",
+      "source": {"id": "ck3ydk7vr01b001rs9qp4dloz", "type": "operator"},
+      "target": {"id": "ck3ydk7vr01aw01rs3g9rdzbu", "type": "activity"}
+    },
+    {
+      "_id": "ck3ydk7vr01b501rs74vq3hv9",
+      "source": {"id": "ck3ydk7vr01b001rs9qp4dloz", "type": "operator"},
+      "target": {"id": "ck3ydk7vr01ay01rsa84oc98k", "type": "activity"}
+    },
+    {
+      "_id": "ck3ydk7vr01b601rs99cx2bw7",
+      "source": {"id": "ck3ydk7vr01b101rsbsii2mly", "type": "operator"},
+      "target": {"id": "ck3ydk7vr01b201rsg338h7dd", "type": "operator"}
+    },
+    {
+      "_id": "ck3ydk7vr01b701rse4kv9vkp",
+      "source": {"id": "ck3ydk7vr01b101rsbsii2mly", "type": "operator"},
+      "target": {"id": "ck3ydk7vr01b301rsge4418ap", "type": "operator"}
+    },
+    {
+      "_id": "ck3ydk7vr01b801rs2m6he5ny",
+      "source": {"id": "ck3ydk7vr01b201rsg338h7dd", "type": "operator"},
+      "target": {"id": "ck3ydk7vr01at01rs3b0th3nk", "type": "activity"}
+    },
+    {
+      "_id": "ck3ydk7vr01b901rs8m265l50",
+      "source": {"id": "ck3ydk7vr01b201rsg338h7dd", "type": "operator"},
+      "target": {"id": "ck3ydk7vr01au01rsa3a473vy", "type": "activity"}
+    },
+    {
+      "_id": "ck3ydk7vr01ba01rs1axo1k6v",
+      "source": {"id": "ck3ydk7vr01b301rsge4418ap", "type": "operator"},
+      "target": {"id": "ck3ydk7vr01ar01rsfvj46c2f", "type": "activity"}
+    },
+    {
+      "_id": "ck3ydk7vr01bb01rs20jrbexx",
+      "source": {"id": "ck3ydk7vr01b301rsge4418ap", "type": "operator"},
+      "target": {"id": "ck3ydk7vr01az01rs8tkwexlj", "type": "activity"}
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "structure": {
+    "groupingKey": "Split class into groups of 2-3 for the HTML analysis"
+  },
+  "payload": {
+    "1": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h2>Architecture</h2>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h3>Program presentation</h3>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.</p>\n\n<h3>Study plan</h3>\n<li><a>Bachelor first year</a></li>\n<li><a>Bachelor 2nd and 3rd year</a></li>\n<li><a>Master</a></li>\n\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jp\" alt=\"Rolex Learning Center\">\n</section>\n</body>\n</html>"
+      }
+    },
+    "2": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h2>Architecture</h2>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h3>Program presentation</h3>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.\n\n<h3>Study plan</h3>\n<ul>\n    <li><a>Bachelor first year</a></li>\n    <li><a>Bachelor 2nd and 3rd year</a></li>\n    <li><a>Master</a></li>\n</ul>\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jpg\">\n</section>\n</body>\n</html>"
+      }
+    },
+    "3": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h1>Architecture</h1>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h2>Program presentation</h2>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.\n\n<h2>Study plan</h2>\n<ul>\n<li>Bachelor first year</li>\n<li>Bachelor 2nd and 3rd year</li>\n<li>Master</li>\n</ul>\n<br>\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jp\" alt='Rolex Learning Centre'>\n</section>\n</html>"
+      }
+    },
+    "4": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h1>Architecture</h1>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h2>Program presentation</h2>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.\n\n<h2>Study plan</h2>\n<ul>\n<li>Bachelor first year</li>\n<li>Bachelor 2nd and 3rd year</li>\n<li>Master</li>\n\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jpg\" alt=\"Rolex Learning Center\">\n</section>\n</html>"
+      }
+    },
+    "5": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n    <title>EPFL - Architecture</title>\n</head>\n<body>\n    <section>\n        <h1>Architecture</h2>\n        <p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n        <h3>Program presentation</h3>\n        <p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.\n\n        <h3>Study plan</h3>\n        <ul>\n            <li>Bachelor first year</li>\n            <li>Bachelor 2nd and 3rd year</li>\n            <li>Master</li>\n        </ul>\n\n        <img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jp\" alt=\"alternative text\">\n    </section>\n</body>\n</html>"
+      }
+    },
+    "6": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h2>Architecture</h2>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h3>Program presentation</h3>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.</p>\n\n<h3>Study plan</h3>\n\n<ul>\n<li><a>Bachelor first year</a></li>\n<li><a>Bachelor 2nd and 3rd year</a></li>\n<li><a>Master</a></li>\n</ul>\n\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jp\">\n</section>\n</body>\n</html>"
+      }
+    },
+    "7": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h1>Architecture</h1>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h2>Program presentation</h2>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.\n\n<h3>Study plan</h3>\n<ul>\n    <li><a href=\"http://www.example.com\">Bachelor first year</a></li>\n    <li><a href=\"http://www.example.com\">Bachelor 2nd and 3rd year</a></li>\n    <li><a href=\"http://www.example.com\">Master</a></li>\n</ul>\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jpg\" alt=\"The One and Only Miraculous, Beautiful and Allmighty Rolex Learning Center\">\n</section>\n</html>"
+      }
+    },
+    "8": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h2>Architecture</h2>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h3>Program presentation</h3>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.\n\n<h3>Study plan</h3>\n<ul>\n<li><a href = \"\">Bachelor first year </a></li>\n<li><a>Bachelor 2nd and 3rd year</a></li>\n<li><a>Master</a></li>\n</ul>\n\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jp\">\n</section>\n</html>"
+      }
+    },
+    "9": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h1>Architecture</h1>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h2>Program presentation</h2>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.\n\n<h2>Study plan</h2>\n<ul>\n<li><a href=\"https://fakelink.org\">Bachelor first year</a></li>\n<li><a href=\"https://fakelink.org\">Bachelor 2nd and 3rd year</a></li>\n<li><a href=\"hhtps://fakelink.org\">Master</a></li>\n</ul>\n<img alt=\"Alternative name\" src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jpg\">\n</section>\n</html>"
+      }
+    },
+    "10": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n    <h1>My Title</h1>\n<h2>Architecture</h2>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h2>Program presentation</h2>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.\n\n<h2>Study plan</h2>\n\n<ul>\n<li>Bachelor first year</li>\n<li>Bachelor 2nd and 3rd year</li>\n<li>Master</li>\n</ul>\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jpg\" alt=\"RLC\">\n\n<p><a href=\"www.bing.com\">Use me as a search engine</a></p>\n</section>\n</html>"
+      }
+    },
+    "11": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n    <head>\n        <meta charset=\"utf-8\">\n        <title>EPFL - Architecture</title>\n    </head>\n    \n    <body>\n        <section>\n            <h2>Architecture</h2>\n            <p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n            \n            <h3>Program presentation</h3>\n            <p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.\n            \n            <h3>Study plan</h3>\n            <ul>\n                <li>Bachelor first year</li>\n                <li>Bachelor 2nd and 3rd year</li>\n                <li>Master</li>\n            </ul>\n            \n            <img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jpg\" alt=\"Rolex learning center\"/>\n        </section>\n    </body>\n</html>"
+      }
+    },
+    "12": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h2>Architecture</h2>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h3>Program presentation</h3>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.</p>\n\n<h4>Study plan</h4>\n<ul>\n<li><a>Bachelor first year</a></li>\n<li><a>Bachelor 2nd and 3rd year</a></li>\n<li><a>Master</a></li>\n</ul>\n\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jpg\">\n</section>\n</body>\n\n</html>"
+      }
+    },
+    "13": {
+      "data": {
+        "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>EPFL - Architecture</title>\n</head>\n<body>\n<section>\n<h1>Architecture</h1>\n<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n<h2>Program presentation</h2>\n<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.</p>\n<h2>Study plan</h2>\n<ul>\n<li><a>Bachelor first year</a></li>\n<li><a>Bachelor 2nd and 3rd year</a></li>\n<li><a>Master</a></li>\n</ul>\n\n<img src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jpg\" alt=\"Rolex\">\n</section>\n</html>"
+      }
+    }
+  }
+}

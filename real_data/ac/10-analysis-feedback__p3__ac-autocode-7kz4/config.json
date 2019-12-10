@@ -1,0 +1,7 @@
+{
+  "theme": "kuroir",
+  "tests": [{}],
+  "language": "HTML",
+  "template": "<!DOCTYPE html>\n<html lang=\"en\">\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t\t<title>EPFL - Architecture</title>\n\t</head>\n\t<body>\n\t\t<section>\n\t\t\t<h1>Architecture</h1>\n\t\t\t<p>Building places to live, work, or learn in; designing spaces incorporating both aesthetic and cultural reflection: architecture is characterized by this challenging desire to serve everything while aspiring to improve our lifestyle</p>\n\n\t\t\t<h2>Program presentation</h2>\n\t\t\t<p>Studies in architecture are not structured like those in EPFL’s other departments: its teaching relies on the perpetual dialogue between practice and theory.</p>\n\n\t\t\t<h2>Study plan</h2>\n\t\t\t<ul>\n\t\t\t\t<li><a href=\"https://epfl.ch/b1\">Bachelor first year</a></li>\n\t\t\t\t<li><a href=\"https://epfl.ch/b+\">Bachelor 2nd and 3rd year</a></li>\n\t\t\t\t<li><a href=\"https://epfl.ch/master\">Master</a></li>\n\t\t\t</ul>\n\n\t\t\t<img alt=\"Architecture: background image\" src=\"https://media-cdn.tripadvisor.com/media/photo-s/05/15/db/23/rolex-learning-center.jpg\">\n\t\t</section>\n\t</body>\n</html>\n\n<!-- \n1. Closing tag </body> missing\n2. Order of headings\n3. Closing tag </p> missing\n4. <a> is required to have href attribute\n5. <ul> missing\n6. <img> src broken\n7. alt attribute missing\n8. Indentation\n-->",
+  "title": "HTML analysis: discussion and feedback"
+}
