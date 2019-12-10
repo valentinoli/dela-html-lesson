@@ -1,0 +1,14 @@
+{
+  "_id": "ck3ydk7vr01aw01rs3g9rdzbu",
+  "graphId": "ck3ydk7vp01am01rs9htoes7k",
+  "length": 7,
+  "plane": 2,
+  "startTime": 42,
+  "title": "Analysis (group)",
+  "activityType": "ac-chat",
+  "configVersion": 1,
+  "groupingKey": "Split class into groups of 2-3 for the HTML analysis",
+  "state": "computed",
+  "actualStartingTime": "2019-12-10T08:09:36.990Z",
+  "actualClosingTime": "2019-12-10T08:13:42.093Z"
+}

@@ -1,0 +1,5 @@
+{
+  "groupsize": 2,
+  "strategy": "minimum",
+  "grouping": "Split class into groups of 2-3 for the HTML analysis"
+}

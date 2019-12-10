@@ -1,0 +1,99 @@
+{
+  "_id": "ck3ydk7vr01b301rsge4418ap",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {
+    "Split class into two groups": {
+      "1": [
+        "Ystaypp7AmJ4wYvsM",
+        "bFNGRyeEysDF8YCYG",
+        "Sp3JZtnPt2G6W7a32",
+        "g5QS8GZ6gaFThnu94",
+        "Gv7QyY2nyFbAQadHu",
+        "2bcTjnfNuKp5hJcyK",
+        "o5DALaM8AFwY6H4tE",
+        "PrjgtRBCGbqJoZ3HN",
+        "hjfHvYz88HrEAiHw7",
+        "NEJpZWwLZ4dzzvYh7",
+        "k2oxfxXXwQszGYgbX",
+        "BMjGCT4wEQuYNyTiS",
+        "w47e4oqeyEuQFBYaD"
+      ],
+      "2": [
+        "zziBcRA4iFysNPizw",
+        "QpTfa3muPPMBFR9Pp",
+        "28AYQLYnkgBi5uKXN",
+        "53TwXKQe62kT2tnRp",
+        "PdmCgSRv3kmfWwA3a",
+        "YvCdYm3zReNZzrtNs",
+        "C23vEwAz5F76NjERx",
+        "PqdvC3XWpMyWFqire",
+        "xGGhgoi8Lr67HZvga",
+        "iCcqC5LHLXf5Ja3jK",
+        "znza2WvWyiBTfdzab",
+        "EdAtNnM345PRb4tLZ",
+        "Aw4gxBApCsdMueCwk"
+      ]
+    }
+  },
+  "globalStructure": {
+    "studentIds": [
+      "o5DALaM8AFwY6H4tE",
+      "28AYQLYnkgBi5uKXN",
+      "Sp3JZtnPt2G6W7a32",
+      "w47e4oqeyEuQFBYaD",
+      "k2oxfxXXwQszGYgbX",
+      "iCcqC5LHLXf5Ja3jK",
+      "hjfHvYz88HrEAiHw7",
+      "PqdvC3XWpMyWFqire",
+      "zziBcRA4iFysNPizw",
+      "PdmCgSRv3kmfWwA3a",
+      "Gv7QyY2nyFbAQadHu",
+      "QpTfa3muPPMBFR9Pp",
+      "PrjgtRBCGbqJoZ3HN",
+      "xGGhgoi8Lr67HZvga",
+      "g5QS8GZ6gaFThnu94",
+      "C23vEwAz5F76NjERx",
+      "YvCdYm3zReNZzrtNs",
+      "53TwXKQe62kT2tnRp",
+      "Ystaypp7AmJ4wYvsM",
+      "znza2WvWyiBTfdzab",
+      "EdAtNnM345PRb4tLZ",
+      "bFNGRyeEysDF8YCYG",
+      "NEJpZWwLZ4dzzvYh7",
+      "BMjGCT4wEQuYNyTiS",
+      "Aw4gxBApCsdMueCwk",
+      "2bcTjnfNuKp5hJcyK"
+    ],
+    "students": {
+      "o5DALaM8AFwY6H4tE": "David Joaquim Da Rocha Rodrigues",
+      "28AYQLYnkgBi5uKXN": "Andrea Sebastien Scalisi",
+      "Sp3JZtnPt2G6W7a32": "Johan Per Alexandre Lanzrein",
+      "w47e4oqeyEuQFBYaD": "Can Yilmaz Altinigne",
+      "k2oxfxXXwQszGYgbX": "Maxime Quentin Pisa",
+      "iCcqC5LHLXf5Ja3jK": "Anton Soldatenkov",
+      "hjfHvYz88HrEAiHw7": "Marie Mouna Reignier Tayar",
+      "PqdvC3XWpMyWFqire": "Robin Leurent",
+      "zziBcRA4iFysNPizw": "Jan Horesovsky",
+      "PdmCgSRv3kmfWwA3a": "Maxime Christophe J Lamborelle",
+      "Gv7QyY2nyFbAQadHu": "Alexis Philippe Marie Mermet",
+      "QpTfa3muPPMBFR9Pp": "Maja Stamenkovic",
+      "PrjgtRBCGbqJoZ3HN": "Jade Maï L Cock",
+      "xGGhgoi8Lr67HZvga": "Jimin Wang",
+      "g5QS8GZ6gaFThnu94": "Arnaud Michel Garin",
+      "C23vEwAz5F76NjERx": "Lua Streit",
+      "YvCdYm3zReNZzrtNs": "Timur Nikita Lavrov",
+      "53TwXKQe62kT2tnRp": "Thanh Loïc Nguyen",
+      "Ystaypp7AmJ4wYvsM": "Jeremy Olivier Mion",
+      "znza2WvWyiBTfdzab": "Ludo Hoffstetter",
+      "EdAtNnM345PRb4tLZ": "Max Schnaubelt",
+      "bFNGRyeEysDF8YCYG": "Elias Hariz",
+      "NEJpZWwLZ4dzzvYh7": "Victor Louis René Jean Taburet",
+      "BMjGCT4wEQuYNyTiS": "Isitan Gorkey",
+      "Aw4gxBApCsdMueCwk": "Arnaud Jean Pierre-François Brigitte Duvieusart",
+      "2bcTjnfNuKp5hJcyK": "Xiao Zhou"
+    }
+  }
+}
